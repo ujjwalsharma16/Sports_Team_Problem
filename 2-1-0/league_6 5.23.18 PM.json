@@ -1,0 +1,43 @@
+{
+    "teams": [
+        {
+            "name": "TeamA",
+            "wins": 7,
+            "remaining": {
+                "TeamB": 1,
+                "TeamC": 1
+            }
+        },
+        {
+            "name": "TeamB",
+            "wins": 6,
+            "remaining": {
+                "TeamA": 1,
+                "TeamC": 1
+            }
+        },
+        {
+            "name": "TeamC",
+            "wins": 5,
+            "remaining": {
+                "TeamA": 1,
+                "TeamB": 1
+            }
+        },
+        {
+            "name": "TeamD",
+            "wins": 4,
+            "remaining": {}
+        },
+        {
+            "name": "TeamE",
+            "wins": 3,
+            "remaining": {}
+        },
+        {
+            "name": "TeamF",
+            "wins": 1,
+            "remaining": {}
+        }
+    ]
+}

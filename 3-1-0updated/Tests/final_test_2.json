@@ -1,0 +1,251 @@
+{
+  "season": "2019-20 (After Gameweek 25)",
+  "description": "Mid-season title race heating up - 2019-20 Gameweek 25",
+  "teams": [
+    {
+      "name": "Liverpool FC",
+      "wins": 24,
+      "draws": 1,
+      "losses": 0,
+      "points": 73,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Manchester City",
+      "wins": 16,
+      "draws": 3,
+      "losses": 6,
+      "points": 51,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Leicester City",
+      "wins": 15,
+      "draws": 4,
+      "losses": 6,
+      "points": 49,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Chelsea FC",
+      "wins": 12,
+      "draws": 5,
+      "losses": 8,
+      "points": 41,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 10,
+      "draws": 7,
+      "losses": 8,
+      "points": 37,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Sheffield United",
+      "wins": 9,
+      "draws": 9,
+      "losses": 7,
+      "points": 36,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Manchester United",
+      "wins": 9,
+      "draws": 8,
+      "losses": 8,
+      "points": 35,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "wins": 8,
+      "draws": 11,
+      "losses": 6,
+      "points": 35,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Everton FC",
+      "wins": 9,
+      "draws": 6,
+      "losses": 10,
+      "points": 33,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Arsenal FC",
+      "wins": 6,
+      "draws": 13,
+      "losses": 6,
+      "points": 31,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Burnley FC",
+      "wins": 9,
+      "draws": 4,
+      "losses": 12,
+      "points": 31,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 8,
+      "draws": 7,
+      "losses": 10,
+      "points": 31,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Southampton FC",
+      "wins": 9,
+      "draws": 4,
+      "losses": 12,
+      "points": 31,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 7,
+      "draws": 9,
+      "losses": 9,
+      "points": 30,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "wins": 6,
+      "draws": 8,
+      "losses": 11,
+      "points": 26,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "AFC Bournemouth",
+      "wins": 7,
+      "draws": 5,
+      "losses": 13,
+      "points": 26,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Aston Villa",
+      "wins": 7,
+      "draws": 4,
+      "losses": 14,
+      "points": 25,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "West Ham United",
+      "wins": 6,
+      "draws": 6,
+      "losses": 13,
+      "points": 24,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Watford FC",
+      "wins": 5,
+      "draws": 8,
+      "losses": 12,
+      "points": 23,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    },
+    {
+      "name": "Norwich City",
+      "wins": 4,
+      "draws": 6,
+      "losses": 15,
+      "points": 18,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 9
+      }
+    }
+  ],
+  "test_scenario": {
+    "season": "2019-20",
+    "gameweek": 25,
+    "context": "Mid-season title race heating up"
+  }
+}

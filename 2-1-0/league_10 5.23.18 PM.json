@@ -1,0 +1,154 @@
+{
+    "teams": [
+        {
+            "name": "TeamA",
+            "wins": 6,
+            "remaining": {
+                "TeamB": 1,
+                "TeamC": 1,
+                "TeamD": 1,
+                "TeamE": 1,
+                "TeamF": 1,
+                "TeamG": 1,
+                "TeamH": 1,
+                "TeamI": 1,
+                "TeamJ": 1
+            }
+        },
+        {
+            "name": "TeamB",
+            "wins": 6,
+            "remaining": {
+                "TeamA": 1,
+                "TeamC": 1,
+                "TeamD": 1,
+                "TeamE": 1,
+                "TeamF": 1,
+                "TeamG": 1,
+                "TeamH": 1,
+                "TeamI": 1,
+                "TeamJ": 1
+            }
+        },
+        {
+            "name": "TeamC",
+            "wins": 6,
+            "remaining": {
+                "TeamA": 1,
+                "TeamB": 1,
+                "TeamD": 1,
+                "TeamE": 1,
+                "TeamF": 1,
+                "TeamG": 1,
+                "TeamH": 1,
+                "TeamI": 1,
+                "TeamJ": 1
+            }
+        },
+        {
+            "name": "TeamD",
+            "wins": 5,
+            "remaining": {
+                "TeamA": 1,
+                "TeamB": 1,
+                "TeamC": 1,
+                "TeamE": 1,
+                "TeamF": 1,
+                "TeamG": 1,
+                "TeamH": 1,
+                "TeamI": 1,
+                "TeamJ": 1
+            }
+        },
+        {
+            "name": "TeamE",
+            "wins": 5,
+            "remaining": {
+                "TeamA": 1,
+                "TeamB": 1,
+                "TeamC": 1,
+                "TeamD": 1,
+                "TeamF": 1,
+                "TeamG": 1,
+                "TeamH": 1,
+                "TeamI": 1,
+                "TeamJ": 1
+            }
+        },
+        {
+            "name": "TeamF",
+            "wins": 5,
+            "remaining": {
+                "TeamA": 1,
+                "TeamB": 1,
+                "TeamC": 1,
+                "TeamD": 1,
+                "TeamE": 1,
+                "TeamG": 1,
+                "TeamH": 1,
+                "TeamI": 1,
+                "TeamJ": 1
+            }
+        },
+        {
+            "name": "TeamG",
+            "wins": 4,
+            "remaining": {
+                "TeamA": 1,
+                "TeamB": 1,
+                "TeamC": 1,
+                "TeamD": 1,
+                "TeamE": 1,
+                "TeamF": 1,
+                "TeamH": 1,
+                "TeamI": 1,
+                "TeamJ": 1
+            }
+        },
+        {
+            "name": "TeamH",
+            "wins": 4,
+            "remaining": {
+                "TeamA": 1,
+                "TeamB": 1,
+                "TeamC": 1,
+                "TeamD": 1,
+                "TeamE": 1,
+                "TeamF": 1,
+                "TeamG": 1,
+                "TeamI": 1,
+                "TeamJ": 1
+            }
+        },
+        {
+            "name": "TeamI",
+            "wins": 3,
+            "remaining": {
+                "TeamA": 1,
+                "TeamB": 1,
+                "TeamC": 1,
+                "TeamD": 1,
+                "TeamE": 1,
+                "TeamF": 1,
+                "TeamG": 1,
+                "TeamH": 1,
+                "TeamJ": 1
+            }
+        },
+        {
+            "name": "TeamJ",
+            "wins": 1,
+            "remaining": {
+                "TeamA": 1,
+                "TeamB": 1,
+                "TeamC": 1,
+                "TeamD": 1,
+                "TeamE": 1,
+                "TeamF": 1,
+                "TeamG": 1,
+                "TeamH": 1,
+                "TeamI": 1
+            }
+        }
+    ]
+}

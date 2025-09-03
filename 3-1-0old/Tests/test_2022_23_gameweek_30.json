@@ -1,0 +1,73 @@
+{
+  "season": "2022-2023 (After Gameweek 30)",
+  "description": "April 2023 - Title race intensifying",
+  "teams": [
+    {
+      "name": "Arsenal",
+      "wins": 21,
+      "draws": 4,
+      "losses": 5,
+      "points": 67,
+      "remaining": {
+        "Manchester City": 1,
+        "Brighton": 1,
+        "Chelsea": 1,
+        "Newcastle United": 1,
+        "Nottingham Forest": 1,
+        "Southampton": 1,
+        "West Ham United": 1,
+        "Wolverhampton": 1
+      }
+    },
+    {
+      "name": "Manchester City",
+      "wins": 20,
+      "draws": 4,
+      "losses": 6,
+      "points": 64,
+      "remaining": {
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Leeds United": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Chelsea": 1,
+        "Brighton": 1
+      }
+    },
+    {
+      "name": "Liverpool",
+      "wins": 15,
+      "draws": 8,
+      "losses": 7,
+      "points": 53,
+      "remaining": {
+        "Manchester City": 1,
+        "Leeds United": 1,
+        "Leicester City": 1,
+        "Brighton": 1,
+        "Brentford": 1,
+        "Leicester City": 1,
+        "Aston Villa": 1,
+        "Southampton": 1
+      }
+    },
+    {
+      "name": "Leicester City",
+      "wins": 8,
+      "draws": 4,
+      "losses": 18,
+      "points": 25,
+      "remaining": {
+        "Liverpool": 2,
+        "Manchester City": 1,
+        "Newcastle United": 1,
+        "Brighton": 1,
+        "Everton": 1,
+        "Fulham": 1,
+        "West Ham United": 1
+      }
+    }
+  ]
+}

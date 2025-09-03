@@ -1,0 +1,106 @@
+Your MSc project report should be comprised of the following six chapters. The exact titles of Chapters 3, 4, and 5 will differ depending on the type of your project:
+Chapter 1. Introduction.
+Chapter 2. Background Research.
+Chapter 3. System Design/Design of Experiments/Research Methodology (or another appropriate title)
+Chapter 4. Implementation/Empirical Results (or another appropriate title).
+Chapter 5. Software Testing/Data Validation/Evaluation of Results (or another appropriate title).
+Chapter 6. Conclusions and Future Work.
+Each of the above chapters must include some mandatory sections as described below. As much as possible, you should use the same titles and sequence of sections. This will enable the assessors (examiners) of your report to find the material they are looking for quickly and easily. Failure to include a required section or misplacing it can lead to the loss of marks.
+You can find a sample of good MSc project reports from previous years here:
+https://minerva.leeds.ac.uk/bbcswebdav/pid-6434980-dt-content-rid-10100248_3/orgs/SCH_Computing/MSCProj/MSCreports.html
+Please note that in previous years, students were free to structure their reports around any number and sequence of chapters and sections. Hence, when you look at past MSc project reports you should remember that your report will have a different organisation.
+You will also note that MSc project reports from previous years included some discussion of project planning, risk mitigation, choice of software development methodology (e.g. comparing waterfall and agile methodologies), description of relevant modules taken in the past, and a final section on self-appraisal. Starting this year (2019-2020), you are no longer required to cover any of these topics in your report. Including them in your report will not earn you any marks and will distract the assessor of the report.
+Structure of the MSc Project Report
+Your MSc project report should be comprised of the following six chapters:
+Chapter 1. Introduction
+This chapter should provide an introduction to your project and should have the following compulsory sections:
+Section 1.1. Project Aim
+In this section you should explain the aim of the project. The first paragraph of this section should clearly and succinctly define the aim of the project and should not comprise more than a few sentences. It should start with: “The aim of this project is to …”. Here is an example of a well written project aim from [Konstantinidis 2017]:
+“The aim of this project is to investigate the performance of two of the most well-known Big Data processing models, Apache Hadoop and Apache Spark, while the resources provided by the cloud infrastructure are scaling. The main goal of this project is the Energy Efficiency evaluation of these models by measuring the execution time and the power consumption of the individual experiments that will take place.”
+In the remainder of this section you can define and explain the terms and concepts mentioned in the first paragraph so that a reader with little domain knowledge would understand them (but remember that you are addressing a computer science audience so the level of detail should be appropriate to this audience). You can also give in this section some details about the context of the problem, its importance, and its practical applications.
+Section 1.2. Objectives
+In this section you should briefly explain the objectives of the project, i.e. the tasks to be accomplished in order to achieve the overall aim of the project. It is recommended to enumerate the objectives with bullet points. Here is an example of properly stated objectives from [Konstantinidis 2017]:
+“- Conduct a study to understand the concepts of Cloud Computing, Big Data and Energy Efficiency and all the secondary related terms.
+- Examine how Hadoop and Spark work and how they can be implemented on a Cloud infrastructure.
+- Design the Hadoop, Spark clusters and the experiments which will be evaluated.
+- Develop the clusters and implement the experiments for Hadoop and Spark.
+- Evaluate the results with measuring execution time, power consumption and Energy Efficiency for every experiment executed.”
+
+Section 1.3. Deliverables
+In this section you should enumerate the deliverables of the project. Here is a good example from [Valkov 2019]:
+“1. A software product that automates the internal peer-review process. Built using contemporary web technologies and following best practices in web development to be deployed within the University of Leeds.
+2. A GitLab repository that contains the source code of the system.
+3. A developer documentation that provides: 
+An overview of the platform architecture, technologies used, programming languages and style. 
+Instructions for setting up the project in a local development environment. 
+Deployment instructions and system requirements. 
+4. The MSc project report”
+
+Section 1.4 Ethical, legal, and social issues
+In this section you should discuss the ethical, legal, and social issues related to your project. Detailed information and supporting documents (e.g. consent forms) can be included in an appendix. 
+Chapter 2. Background Research
+This chapter should have the following compulsory sections.
+Section 2.1. Literature Survey (or another appropriate title)
+In this section (and its subsections), you should provide a survey of previous research on the same topic as your project (or similar topics if no exact match exists).
+Your survey of the literature should be balanced, meaning that you should not discuss one article at great length while briefly touching upon – or completely ignoring – an equally important one. Please keep in mind that you should avoid verbatim copying of phrases from any source, as this will constitute plagiarism and could lead to potential penalties. Please check this link to refresh your understanding of plagiarism and other academic malpractice and how to avoid them:
+https://library.leeds.ac.uk/info/1401/academic_skills/46/academic_integrity_and_plagiarism
+Section 2.2. Methods and Techniques (or another appropriate title)
+In this section (and its subsections) you should discuss the research methods, techniques, solution principles, tools, and/or technology stacks that are available for solving the problems of your project. The nature of these methods will differ depending on your project type. Your coverage of the various methods should be brief and balanced.
+Section 2.3. Choice of methods (or another appropriate title)  
+In this brief section, you should give a closure to Chapter 2 by describing which of the methods, tools, or techniques discussed in Section 2.2 you have decided to use in your project. You should present convincing arguments supporting your choice of the solution methods. 
+Chapter 3
+The title and content of this chapter will be different depending on the type of your project.
+Exploratory Software (ES) and Software Product (SP) projects
+Chapter 3 should be titled “Software Requirements and System Design” or another appropriate title, and should include the following sections:
+Section 3.1 Software Requirements (or another appropriate title)  
+In this section you should describe the requirements of the envisaged software. For a software product, the requirements should be detailed and precise. For an exploratory software, the requirements can be rather generic as you are exploring the domain of the problem. For a good example of this section, see page 19 in [Alkrud 2019].
+Section 3.2. System Design (or another appropriate title)  
+In this section you should explain the overall design of the envisaged software without giving any details about its implementation. You should use appropriate diagrams whenever possible. These may include block, use case, class, and/or relational database diagrams. For a good example of this section, see page 23 in [Alkrud 2019] and page 21 in [Georgallidou 2019].
+Empirical Investigation (EI) projects
+Chapter 3 should be titled “Datasets and Experimental Design” or another appropriate title, and should have the following sections:
+Section 3.1. Datasets/Data Sources (or another appropriate title)
+In this section you should describe the data that will be collected, measured, processed, compared, analysed, and/or represented in the course of the empirical investigation. This could include discussion of issues such as sources and types of data, description of datasets and corpora, and categorisation of variables into independent and dependant variables, etc. For good examples of this section, see page 20 in [Li 2019] and page 19 in [Zhu 2019].
+Section 3.2 Empirical Process/Experimental Setup/Experimental Design (or another appropriate title)
+In this section you should describe the empirical methods, processes, and/or protocols that have been used to measure and analyse the data. You can also describe the design of the experiments and the software or hardware tools you have used to collect and process the data. If you have developed your own tools (e.g. code) for collecting or processing data, these should be described in this chapter as well. For a good example of this section, see page 27 in [Alqahtani 2018]
+Theoretical Study (TS) projects
+Chapter 3 should be titled “Research Methodology” (or another appropriate title) and should have the following sections:
+Section 3.1. Research Hypotheses (or another appropriate title)
+In this section you should describe the research hypotheses of the project. 
+Section 3.2. Theoretical Framework/Research Methodology (or another appropriate title)
+In this section you should describe the theoretical framework or the research methodology that will be used to test or prove the research hypotheses.
+Chapter 4
+The title and content of this chapter will be different depending on the type of your project.
+ES and SP projects
+Chapter 4 should be titled “Software Implementation” or another appropriate title. In this chapter, you should describe in detail how the software was implemented, and would typically include screenshots from your program, pseudocode, code snippets, etc. For a good example of this chapter see page 27 in [McManus 2019].
+EI projects
+Chapter 4 should be titled “Results of the Empirical Investigation” or another appropriate title and should present the results of the empirical investigation. 
+TS projects
+Chapter 4 should be titled “Study Results” or another appropriate title and should present the results of the study.
+Chapter 5
+For ES and SP projects
+Chapter 5 should be titled “Software Testing and Evaluation” or another appropriate title and should outline the methodology for testing the software as well as the outcome of the tests. If the software was evaluated by customers or other stakeholders, then you should also include the results of the evaluation in this chapter. For a good example of this Chapter see [Keighley 2019].
+EI projects
+Chapter 5 should be titled “Validation of Results” or another appropriate title and should describe the methods that were used to test the validity of the empirical results as well as the validation outcome. For a good example of this Chapter see page 57 in [Ibrahim 2019].
+TS projects
+Chapter 5 should be titled “Study Validation” and should describe the methodology that was used to test the validity of the results of the study and the outcome the validation.
+Chapter 6 Conclusions and Future Work
+Section 6.1. Conclusions
+In this section you draw the conclusions of your research project.
+Section 6.2. Future Work
+In this section you should outline any future work to improve and develop your work on the project.
+
+Finally, don’t forget that your report should have a list of all references at the end, and could have some appendices.
+
+References
+[Alkrud 2019] A. Alkrud, Developing schools checker for better decision making by combing geospatial, educational and transport open data, MSc project report, School of Computing, University of Leeds, 2019, Available on Minerva here: https://minerva.leeds.ac.uk/bbcswebdav/pid-6434980-dt-content-rid-10100248_3/orgs/SCH_Computing/MSCProj/reports/1819/Alkrud.pdf
+[Alqahtani 2018] R. Alqahtani, Evaluation of the Performance and Energy Efficiency of an HPC mini-app in Cloud Computing and GPU Environments, MSc project report, School of Computing, University of Leeds, 2018. Available on Minerva here: https://minerva.leeds.ac.uk/bbcswebdav/pid-6434980-dt-content-rid-10100248_3/orgs/SCH_Computing/MSCProj/reports/1718/ALQAHTANI-2.pdf
+[Georgallidou 2019] M. Georgallidou, Interactive tool for student module selection, MSc project report, School of Computing, University of Leeds, 2019, Available on Minerva here: https://minerva.leeds.ac.uk/bbcswebdav/pid-6434980-dt-content-rid-10100248_3/orgs/SCH_Computing/MSCProj/reports/1819/Georgallidou.pdf
+[Ibrahim 2019] M. Ibrahim, A multidialectal Arabic corpus: tool design and dialect identification using twitter, 	MSc project report, School of Computing, University of Leeds, 2019, Available on Minerva here: https://minerva.leeds.ac.uk/bbcswebdav/pid-6434980-dt-content-rid-10100248_3/orgs/SCH_Computing/MSCProj/reports/1819/Ibrahim.pdf
+[Keighley 2019] J. Keighley, Automated creation of randomised multiple choice questions via automated ontology creation and text extraction, MSc project report, School of Computing, University of Leeds, 2019, Available on Minerva here: https://minerva.leeds.ac.uk/bbcswebdav/pid-6434980-dt-content-rid-10100248_3/orgs/SCH_Computing/MSCProj/reports/1819/Keighley.pdf
+[Konstantinidis 2017] K. Konstantinidis, Energy Efficiency Driven Resource Scalability for Big Data on the Cloud, MSc project report, School of Computing, University of Leeds, 2017. Available on Minerva here: https://minerva.leeds.ac.uk/bbcswebdav/pid-6434980-dt-content-rid-10100248_3/orgs/SCH_Computing/MSCProj/reports/1617/KONSTANTINIDIS.pdf
+[Li 2019] S. Li, Analysing Wearable Sensor Data for Human Activity Recognition, MSc project report, School of Computing, University of Leeds, 2019. Available on Minerva here: https://minerva.leeds.ac.uk/bbcswebdav/pid-6434980-dt-content-rid-10100248_3/orgs/SCH_Computing/MSCProj/reports/1819/Li.pdf
+[McManus 2019] C. McManus, Implementation of Subsurface Scattering and Translucency in Different Materials, MSc project report, School of Computing, University of Leeds, 2019. Available on Minerva here: https://minerva.leeds.ac.uk/bbcswebdav/pid-6434980-dt-content-rid-10100248_3/orgs/SCH_Computing/MSCProj/reports/1819/McManus.pdf
+[Valkov 2019] V. S. Valkov, Automated Internal Peer Review Software, MSc project report, School of Computing, University of Leeds, 2019. Available on Minerva here: https://minerva.leeds.ac.uk/bbcswebdav/pid-6434980-dt-content-rid-10100248_3/orgs/SCH_Computing/MSCProj/reports/1819/Valkov.pdf
+[Zhu 2019] J. Zhu, Deep Generative Streets, MSc project report, School of Computing, University of Leeds, 2019. Available on Minerva here: https://minerva.leeds.ac.uk/bbcswebdav/pid-6434980-dt-content-rid-10100248_3/orgs/SCH_Computing/MSCProj/reports/1819/Zhu.pdf
+
+  

@@ -1,0 +1,90 @@
+{
+  "season": "2022-2023 (After Gameweek 18)",
+  "description": "January 2023 - Winter break period",
+  "teams": [
+    {
+      "name": "Arsenal",
+      "wins": 14,
+      "draws": 2,
+      "losses": 2,
+      "points": 44,
+      "remaining": {
+        "Manchester City": 2,
+        "Liverpool": 1,
+        "Newcastle United": 1,
+        "Manchester United": 1,
+        "Tottenham": 1,
+        "Brighton": 1,
+        "Chelsea": 1,
+        "Fulham": 1,
+        "Brentford": 1,
+        "Crystal Palace": 1,
+        "Aston Villa": 1,
+        "Leicester City": 1,
+        "Leeds United": 1,
+        "Everton": 1,
+        "Nottingham Forest": 1,
+        "West Ham United": 1,
+        "Wolverhampton": 1,
+        "Bournemouth": 1,
+        "Southampton": 1
+      }
+    },
+    {
+      "name": "Manchester City",
+      "wins": 11,
+      "draws": 3,
+      "losses": 4,
+      "points": 36,
+      "remaining": {
+        "Arsenal": 2,
+        "Liverpool": 1,
+        "Newcastle United": 1,
+        "Manchester United": 1,
+        "Tottenham": 1,
+        "Brighton": 1,
+        "Chelsea": 1,
+        "Fulham": 1,
+        "Brentford": 1,
+        "Crystal Palace": 1,
+        "Aston Villa": 1,
+        "Leicester City": 1,
+        "Leeds United": 1,
+        "Everton": 1,
+        "Nottingham Forest": 1,
+        "West Ham United": 1,
+        "Wolverhampton": 1,
+        "Bournemouth": 1,
+        "Southampton": 1
+      }
+    },
+    {
+      "name": "Southampton",
+      "wins": 4,
+      "draws": 3,
+      "losses": 11,
+      "points": 15,
+      "remaining": {
+        "Arsenal": 1,
+        "Manchester City": 1,
+        "Liverpool": 1,
+        "Newcastle United": 1,
+        "Manchester United": 1,
+        "Tottenham": 1,
+        "Brighton": 1,
+        "Chelsea": 1,
+        "Fulham": 1,
+        "Brentford": 1,
+        "Crystal Palace": 1,
+        "Aston Villa": 1,
+        "Leicester City": 1,
+        "Leeds United": 1,
+        "Everton": 1,
+        "Nottingham Forest": 1,
+        "West Ham United": 1,
+        "Wolverhampton": 1,
+        "Bournemouth": 1
+      }
+    }
+  ]
+}

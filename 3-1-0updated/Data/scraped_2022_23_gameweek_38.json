@@ -1,0 +1,166 @@
+{
+  "season": "2022-23 (After Gameweek 38)",
+  "description": "Premier League table after gameweek 38",
+  "teams": [
+    {
+      "name": "Manchester City",
+      "wins": 28,
+      "draws": 5,
+      "losses": 5,
+      "points": 89,
+      "remaining": {}
+    },
+    {
+      "name": "Arsenal FC",
+      "wins": 26,
+      "draws": 6,
+      "losses": 6,
+      "points": 84,
+      "remaining": {}
+    },
+    {
+      "name": "Manchester United",
+      "wins": 23,
+      "draws": 6,
+      "losses": 9,
+      "points": 75,
+      "remaining": {}
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 19,
+      "draws": 14,
+      "losses": 5,
+      "points": 71,
+      "remaining": {}
+    },
+    {
+      "name": "Liverpool FC",
+      "wins": 19,
+      "draws": 10,
+      "losses": 9,
+      "points": 67,
+      "remaining": {}
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "wins": 18,
+      "draws": 8,
+      "losses": 12,
+      "points": 62,
+      "remaining": {}
+    },
+    {
+      "name": "Aston Villa",
+      "wins": 18,
+      "draws": 7,
+      "losses": 13,
+      "points": 61,
+      "remaining": {}
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 18,
+      "draws": 6,
+      "losses": 14,
+      "points": 60,
+      "remaining": {}
+    },
+    {
+      "name": "Brentford FC",
+      "wins": 15,
+      "draws": 14,
+      "losses": 9,
+      "points": 59,
+      "remaining": {}
+    },
+    {
+      "name": "Fulham FC",
+      "wins": 15,
+      "draws": 7,
+      "losses": 16,
+      "points": 52,
+      "remaining": {}
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 11,
+      "draws": 12,
+      "losses": 15,
+      "points": 45,
+      "remaining": {}
+    },
+    {
+      "name": "Chelsea FC",
+      "wins": 11,
+      "draws": 11,
+      "losses": 16,
+      "points": 44,
+      "remaining": {}
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "wins": 11,
+      "draws": 8,
+      "losses": 19,
+      "points": 41,
+      "remaining": {}
+    },
+    {
+      "name": "West Ham United",
+      "wins": 11,
+      "draws": 7,
+      "losses": 20,
+      "points": 40,
+      "remaining": {}
+    },
+    {
+      "name": "AFC Bournemouth",
+      "wins": 11,
+      "draws": 6,
+      "losses": 21,
+      "points": 39,
+      "remaining": {}
+    },
+    {
+      "name": "Nottingham Forest",
+      "wins": 9,
+      "draws": 11,
+      "losses": 18,
+      "points": 38,
+      "remaining": {}
+    },
+    {
+      "name": "Everton FC",
+      "wins": 8,
+      "draws": 12,
+      "losses": 18,
+      "points": 36,
+      "remaining": {}
+    },
+    {
+      "name": "Leicester City",
+      "wins": 9,
+      "draws": 7,
+      "losses": 22,
+      "points": 34,
+      "remaining": {}
+    },
+    {
+      "name": "Leeds United",
+      "wins": 7,
+      "draws": 10,
+      "losses": 21,
+      "points": 31,
+      "remaining": {}
+    },
+    {
+      "name": "Southampton FC",
+      "wins": 6,
+      "draws": 7,
+      "losses": 25,
+      "points": 25,
+      "remaining": {}
+    }
+  ]
+}

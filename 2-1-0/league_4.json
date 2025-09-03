@@ -1,0 +1,40 @@
+{
+  "teams": [
+    {
+      "name": "Alpha",
+      "wins": 2,
+      "remaining": {
+        "Bravo": 1,
+        "Charlie": 1,
+        "Delta": 1
+      }
+    },
+    {
+      "name": "Bravo",
+      "wins": 2,
+      "remaining": {
+        "Alpha": 1,
+        "Charlie": 1,
+        "Delta": 1
+      }
+    },
+    {
+      "name": "Charlie",
+      "wins": 1,
+      "remaining": {
+        "Alpha": 1,
+        "Bravo": 1,
+        "Delta": 1
+      }
+    },
+    {
+      "name": "Delta",
+      "wins": 1,
+      "remaining": {
+        "Alpha": 1,
+        "Bravo": 1,
+        "Charlie": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "season": "2022-23 (After Gameweek 32)",
+  "description": "Final sprint to title - 2022-23 Gameweek 32",
+  "teams": [
+    {
+      "name": "Arsenal FC",
+      "wins": 23,
+      "draws": 6,
+      "losses": 3,
+      "points": 75,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Manchester City",
+      "wins": 23,
+      "draws": 5,
+      "losses": 4,
+      "points": 74,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 17,
+      "draws": 11,
+      "losses": 4,
+      "points": 62,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Manchester United",
+      "wins": 19,
+      "draws": 5,
+      "losses": 8,
+      "points": 62,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Liverpool FC",
+      "wins": 15,
+      "draws": 8,
+      "losses": 9,
+      "points": 53,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "wins": 15,
+      "draws": 8,
+      "losses": 9,
+      "points": 53,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 16,
+      "draws": 5,
+      "losses": 11,
+      "points": 53,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Aston Villa",
+      "wins": 15,
+      "draws": 6,
+      "losses": 11,
+      "points": 51,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Fulham FC",
+      "wins": 13,
+      "draws": 6,
+      "losses": 13,
+      "points": 45,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Brentford FC",
+      "wins": 10,
+      "draws": 14,
+      "losses": 8,
+      "points": 44,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Chelsea FC",
+      "wins": 10,
+      "draws": 9,
+      "losses": 13,
+      "points": 39,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 9,
+      "draws": 10,
+      "losses": 13,
+      "points": 37,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "West Ham United",
+      "wins": 9,
+      "draws": 7,
+      "losses": 16,
+      "points": 34,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "wins": 9,
+      "draws": 7,
+      "losses": 16,
+      "points": 34,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "AFC Bournemouth",
+      "wins": 9,
+      "draws": 6,
+      "losses": 17,
+      "points": 33,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Leeds United",
+      "wins": 7,
+      "draws": 8,
+      "losses": 17,
+      "points": 29,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Leicester City",
+      "wins": 8,
+      "draws": 4,
+      "losses": 20,
+      "points": 28,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Everton FC",
+      "wins": 6,
+      "draws": 10,
+      "losses": 16,
+      "points": 28,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Nottingham Forest",
+      "wins": 6,
+      "draws": 9,
+      "losses": 17,
+      "points": 27,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    },
+    {
+      "name": "Southampton FC",
+      "wins": 6,
+      "draws": 6,
+      "losses": 20,
+      "points": 24,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 2
+      }
+    }
+  ],
+  "test_scenario": {
+    "season": "2022-23",
+    "gameweek": 32,
+    "context": "Final sprint to title"
+  }
+}

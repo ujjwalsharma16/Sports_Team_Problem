@@ -1,0 +1,251 @@
+{
+  "season": "2022-23 (After Gameweek 22)",
+  "description": "Winter transfer window impact - 2022-23 Gameweek 22",
+  "teams": [
+    {
+      "name": "Arsenal FC",
+      "wins": 17,
+      "draws": 2,
+      "losses": 3,
+      "points": 53,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Manchester City",
+      "wins": 15,
+      "draws": 3,
+      "losses": 4,
+      "points": 48,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 11,
+      "draws": 10,
+      "losses": 1,
+      "points": 43,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Manchester United",
+      "wins": 13,
+      "draws": 4,
+      "losses": 5,
+      "points": 43,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "wins": 12,
+      "draws": 4,
+      "losses": 6,
+      "points": 40,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 12,
+      "draws": 3,
+      "losses": 7,
+      "points": 39,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Brentford FC",
+      "wins": 9,
+      "draws": 9,
+      "losses": 4,
+      "points": 36,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Liverpool FC",
+      "wins": 9,
+      "draws": 6,
+      "losses": 7,
+      "points": 33,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Fulham FC",
+      "wins": 9,
+      "draws": 5,
+      "losses": 8,
+      "points": 32,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Chelsea FC",
+      "wins": 8,
+      "draws": 7,
+      "losses": 7,
+      "points": 31,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Aston Villa",
+      "wins": 9,
+      "draws": 4,
+      "losses": 9,
+      "points": 31,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 6,
+      "draws": 6,
+      "losses": 10,
+      "points": 24,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Nottingham Forest",
+      "wins": 6,
+      "draws": 6,
+      "losses": 10,
+      "points": 24,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Leeds United",
+      "wins": 5,
+      "draws": 7,
+      "losses": 10,
+      "points": 22,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Leicester City",
+      "wins": 6,
+      "draws": 3,
+      "losses": 13,
+      "points": 21,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "wins": 5,
+      "draws": 5,
+      "losses": 12,
+      "points": 20,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "West Ham United",
+      "wins": 5,
+      "draws": 4,
+      "losses": 13,
+      "points": 19,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Everton FC",
+      "wins": 4,
+      "draws": 6,
+      "losses": 12,
+      "points": 18,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "AFC Bournemouth",
+      "wins": 4,
+      "draws": 5,
+      "losses": 13,
+      "points": 17,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    },
+    {
+      "name": "Southampton FC",
+      "wins": 4,
+      "draws": 3,
+      "losses": 15,
+      "points": 15,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 12
+      }
+    }
+  ],
+  "test_scenario": {
+    "season": "2022-23",
+    "gameweek": 22,
+    "context": "Winter transfer window impact"
+  }
+}

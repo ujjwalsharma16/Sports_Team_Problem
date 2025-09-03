@@ -1,0 +1,65 @@
+{
+    "teams": [
+        {
+            "name": "TeamA",
+            "wins": 10,
+            "remaining": {
+                "TeamB": 1,
+                "TeamC": 1
+            }
+        },
+        {
+            "name": "TeamB",
+            "wins": 8,
+            "remaining": {
+                "TeamA": 1,
+                "TeamC": 1
+            }
+        },
+        {
+            "name": "TeamC",
+            "wins": 7,
+            "remaining": {
+                "TeamA": 1,
+                "TeamB": 1,
+                "TeamD": 1
+            }
+        },
+        {
+            "name": "TeamD",
+            "wins": 6,
+            "remaining": {
+                "TeamC": 1,
+                "TeamE": 1
+            }
+        },
+        {
+            "name": "TeamE",
+            "wins": 5,
+            "remaining": {
+                "TeamD": 1,
+                "TeamF": 1
+            }
+        },
+        {
+            "name": "TeamF",
+            "wins": 4,
+            "remaining": {
+                "TeamE": 1,
+                "TeamG": 1
+            }
+        },
+        {
+            "name": "TeamG",
+            "wins": 3,
+            "remaining": {
+                "TeamF": 1
+            }
+        },
+        {
+            "name": "TeamH",
+            "wins": 1,
+            "remaining": {}
+        }
+    ]
+}

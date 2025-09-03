@@ -1,0 +1,251 @@
+{
+  "season": "2022-23 (After Gameweek 10)",
+  "description": "Autumn form taking shape - 2022-23 Gameweek 10",
+  "teams": [
+    {
+      "name": "Arsenal FC",
+      "wins": 9,
+      "draws": 0,
+      "losses": 1,
+      "points": 27,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Manchester City",
+      "wins": 8,
+      "draws": 2,
+      "losses": 0,
+      "points": 26,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 6,
+      "draws": 2,
+      "losses": 2,
+      "points": 20,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "wins": 6,
+      "draws": 2,
+      "losses": 2,
+      "points": 20,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 4,
+      "draws": 5,
+      "losses": 1,
+      "points": 17,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Chelsea FC",
+      "wins": 5,
+      "draws": 2,
+      "losses": 3,
+      "points": 17,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Manchester United",
+      "wins": 5,
+      "draws": 2,
+      "losses": 3,
+      "points": 17,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Liverpool FC",
+      "wins": 3,
+      "draws": 5,
+      "losses": 2,
+      "points": 14,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Fulham FC",
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "points": 14,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Brentford FC",
+      "wins": 3,
+      "draws": 4,
+      "losses": 3,
+      "points": 13,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Leeds United",
+      "wins": 3,
+      "draws": 4,
+      "losses": 3,
+      "points": 13,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Aston Villa",
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "points": 12,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "AFC Bournemouth",
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "points": 12,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "points": 10,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Everton FC",
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "points": 10,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "West Ham United",
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "points": 10,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Southampton FC",
+      "wins": 2,
+      "draws": 1,
+      "losses": 7,
+      "points": 7,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "wins": 1,
+      "draws": 3,
+      "losses": 6,
+      "points": 6,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Nottingham Forest",
+      "wins": 1,
+      "draws": 2,
+      "losses": 7,
+      "points": 5,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    },
+    {
+      "name": "Leicester City",
+      "wins": 1,
+      "draws": 1,
+      "losses": 8,
+      "points": 4,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 24
+      }
+    }
+  ],
+  "test_scenario": {
+    "season": "2022-23",
+    "gameweek": 10,
+    "context": "Autumn form taking shape"
+  }
+}

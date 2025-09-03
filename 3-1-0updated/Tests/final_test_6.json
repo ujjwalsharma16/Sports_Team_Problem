@@ -1,0 +1,251 @@
+{
+  "season": "2021-22 (After Gameweek 28)",
+  "description": "Spring run-in begins - 2021-22 Gameweek 28",
+  "teams": [
+    {
+      "name": "Manchester City",
+      "wins": 22,
+      "draws": 3,
+      "losses": 3,
+      "points": 69,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Liverpool FC",
+      "wins": 20,
+      "draws": 6,
+      "losses": 2,
+      "points": 66,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Chelsea FC",
+      "wins": 15,
+      "draws": 9,
+      "losses": 4,
+      "points": 54,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 16,
+      "draws": 3,
+      "losses": 9,
+      "points": 51,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Arsenal FC",
+      "wins": 16,
+      "draws": 3,
+      "losses": 9,
+      "points": 51,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Manchester United",
+      "wins": 13,
+      "draws": 8,
+      "losses": 7,
+      "points": 47,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "West Ham United",
+      "wins": 13,
+      "draws": 6,
+      "losses": 9,
+      "points": 45,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "wins": 13,
+      "draws": 4,
+      "losses": 11,
+      "points": 43,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Leicester City",
+      "wins": 10,
+      "draws": 8,
+      "losses": 10,
+      "points": 38,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Aston Villa",
+      "wins": 11,
+      "draws": 4,
+      "losses": 13,
+      "points": 37,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Southampton FC",
+      "wins": 8,
+      "draws": 11,
+      "losses": 9,
+      "points": 35,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 7,
+      "draws": 12,
+      "losses": 9,
+      "points": 33,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "wins": 7,
+      "draws": 12,
+      "losses": 9,
+      "points": 33,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 7,
+      "draws": 10,
+      "losses": 11,
+      "points": 31,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Brentford FC",
+      "wins": 7,
+      "draws": 6,
+      "losses": 15,
+      "points": 27,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Everton FC",
+      "wins": 7,
+      "draws": 5,
+      "losses": 16,
+      "points": 26,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Burnley FC",
+      "wins": 4,
+      "draws": 13,
+      "losses": 11,
+      "points": 25,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Leeds United",
+      "wins": 5,
+      "draws": 8,
+      "losses": 15,
+      "points": 23,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Watford FC",
+      "wins": 5,
+      "draws": 4,
+      "losses": 19,
+      "points": 19,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    },
+    {
+      "name": "Norwich City",
+      "wins": 4,
+      "draws": 5,
+      "losses": 19,
+      "points": 17,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 6
+      }
+    }
+  ],
+  "test_scenario": {
+    "season": "2021-22",
+    "gameweek": 28,
+    "context": "Spring run-in begins"
+  }
+}

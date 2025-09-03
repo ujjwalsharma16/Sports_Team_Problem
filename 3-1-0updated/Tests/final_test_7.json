@@ -1,0 +1,231 @@
+{
+  "season": "2021-22 (After Gameweek 36)",
+  "description": "Championship race final weeks - 2021-22 Gameweek 36",
+  "teams": [
+    {
+      "name": "Manchester City",
+      "wins": 28,
+      "draws": 5,
+      "losses": 3,
+      "points": 89,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Liverpool FC",
+      "wins": 26,
+      "draws": 8,
+      "losses": 2,
+      "points": 86,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Chelsea FC",
+      "wins": 20,
+      "draws": 10,
+      "losses": 6,
+      "points": 70,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Arsenal FC",
+      "wins": 21,
+      "draws": 3,
+      "losses": 12,
+      "points": 66,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 20,
+      "draws": 5,
+      "losses": 11,
+      "points": 65,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Manchester United",
+      "wins": 16,
+      "draws": 9,
+      "losses": 11,
+      "points": 57,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "West Ham United",
+      "wins": 16,
+      "draws": 7,
+      "losses": 13,
+      "points": 55,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "wins": 15,
+      "draws": 5,
+      "losses": 16,
+      "points": 50,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "wins": 11,
+      "draws": 14,
+      "losses": 11,
+      "points": 47,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Leicester City",
+      "wins": 12,
+      "draws": 10,
+      "losses": 14,
+      "points": 46,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 10,
+      "draws": 14,
+      "losses": 12,
+      "points": 44,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Aston Villa",
+      "wins": 13,
+      "draws": 5,
+      "losses": 18,
+      "points": 44,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Brentford FC",
+      "wins": 12,
+      "draws": 7,
+      "losses": 17,
+      "points": 43,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 11,
+      "draws": 10,
+      "losses": 15,
+      "points": 43,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Southampton FC",
+      "wins": 9,
+      "draws": 13,
+      "losses": 14,
+      "points": 40,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Everton FC",
+      "wins": 11,
+      "draws": 6,
+      "losses": 19,
+      "points": 39,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Burnley FC",
+      "wins": 7,
+      "draws": 14,
+      "losses": 15,
+      "points": 35,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Leeds United",
+      "wins": 8,
+      "draws": 10,
+      "losses": 18,
+      "points": 34,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Watford FC",
+      "wins": 6,
+      "draws": 5,
+      "losses": 25,
+      "points": 23,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    },
+    {
+      "name": "Norwich City",
+      "wins": 5,
+      "draws": 6,
+      "losses": 25,
+      "points": 21,
+      "remaining": {
+        "Top_Team_A": 1,
+        "Top_Team_B": 1
+      }
+    }
+  ],
+  "test_scenario": {
+    "season": "2021-22",
+    "gameweek": 36,
+    "context": "Championship race final weeks"
+  }
+}

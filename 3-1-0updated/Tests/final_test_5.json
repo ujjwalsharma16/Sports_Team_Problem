@@ -1,0 +1,251 @@
+{
+  "season": "2021-22 (After Gameweek 18)",
+  "description": "Christmas period - halfway point - 2021-22 Gameweek 18",
+  "teams": [
+    {
+      "name": "Manchester City",
+      "wins": 14,
+      "draws": 2,
+      "losses": 2,
+      "points": 44,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Liverpool FC",
+      "wins": 12,
+      "draws": 5,
+      "losses": 1,
+      "points": 41,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Chelsea FC",
+      "wins": 11,
+      "draws": 5,
+      "losses": 2,
+      "points": 38,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Manchester United",
+      "wins": 10,
+      "draws": 3,
+      "losses": 5,
+      "points": 33,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Arsenal FC",
+      "wins": 10,
+      "draws": 2,
+      "losses": 6,
+      "points": 32,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 10,
+      "draws": 2,
+      "losses": 6,
+      "points": 32,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "West Ham United",
+      "wins": 9,
+      "draws": 4,
+      "losses": 5,
+      "points": 31,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "wins": 7,
+      "draws": 4,
+      "losses": 7,
+      "points": 25,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 5,
+      "draws": 8,
+      "losses": 5,
+      "points": 23,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Leicester City",
+      "wins": 6,
+      "draws": 5,
+      "losses": 7,
+      "points": 23,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Aston Villa",
+      "wins": 7,
+      "draws": 2,
+      "losses": 9,
+      "points": 23,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Brentford FC",
+      "wins": 5,
+      "draws": 5,
+      "losses": 8,
+      "points": 20,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Southampton FC",
+      "wins": 4,
+      "draws": 8,
+      "losses": 6,
+      "points": 20,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "wins": 4,
+      "draws": 8,
+      "losses": 6,
+      "points": 20,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Everton FC",
+      "wins": 5,
+      "draws": 5,
+      "losses": 8,
+      "points": 20,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Burnley FC",
+      "wins": 2,
+      "draws": 10,
+      "losses": 6,
+      "points": 16,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Leeds United",
+      "wins": 3,
+      "draws": 7,
+      "losses": 8,
+      "points": 16,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Watford FC",
+      "wins": 4,
+      "draws": 2,
+      "losses": 12,
+      "points": 14,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 1,
+      "draws": 7,
+      "losses": 10,
+      "points": 10,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    },
+    {
+      "name": "Norwich City",
+      "wins": 2,
+      "draws": 4,
+      "losses": 12,
+      "points": 10,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 16
+      }
+    }
+  ],
+  "test_scenario": {
+    "season": "2021-22",
+    "gameweek": 18,
+    "context": "Christmas period - halfway point"
+  }
+}

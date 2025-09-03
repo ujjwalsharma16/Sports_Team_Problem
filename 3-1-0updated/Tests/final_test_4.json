@@ -1,0 +1,251 @@
+{
+  "season": "2021-22 (After Gameweek 6)",
+  "description": "Very early season - all teams viable - 2021-22 Gameweek 6",
+  "teams": [
+    {
+      "name": "Liverpool FC",
+      "wins": 4,
+      "draws": 2,
+      "losses": 0,
+      "points": 14,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Manchester City",
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "points": 13,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Chelsea FC",
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "points": 13,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Manchester United",
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "points": 13,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Everton FC",
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "points": 13,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "points": 13,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "West Ham United",
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "points": 11,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Aston Villa",
+      "wins": 3,
+      "draws": 1,
+      "losses": 2,
+      "points": 10,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Brentford FC",
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "points": 9,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Arsenal FC",
+      "wins": 3,
+      "draws": 0,
+      "losses": 3,
+      "points": 9,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 3,
+      "draws": 0,
+      "losses": 3,
+      "points": 9,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Watford FC",
+      "wins": 2,
+      "draws": 1,
+      "losses": 3,
+      "points": 7,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Leicester City",
+      "wins": 2,
+      "draws": 1,
+      "losses": 3,
+      "points": 7,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "wins": 2,
+      "draws": 0,
+      "losses": 4,
+      "points": 6,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "points": 6,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Southampton FC",
+      "wins": 0,
+      "draws": 4,
+      "losses": 2,
+      "points": 4,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 0,
+      "draws": 3,
+      "losses": 3,
+      "points": 3,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Leeds United",
+      "wins": 0,
+      "draws": 3,
+      "losses": 3,
+      "points": 3,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Burnley FC",
+      "wins": 0,
+      "draws": 2,
+      "losses": 4,
+      "points": 2,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    },
+    {
+      "name": "Norwich City",
+      "wins": 0,
+      "draws": 0,
+      "losses": 6,
+      "points": 0,
+      "remaining": {
+        "Top_Team_A": 2,
+        "Top_Team_B": 2,
+        "Other_Teams": 28
+      }
+    }
+  ],
+  "test_scenario": {
+    "season": "2021-22",
+    "gameweek": 6,
+    "context": "Very early season - all teams viable"
+  }
+}

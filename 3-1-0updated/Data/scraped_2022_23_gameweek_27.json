@@ -1,0 +1,406 @@
+{
+  "season": "2022-23 (After Gameweek 27)",
+  "description": "Premier League table after gameweek 27",
+  "teams": [
+    {
+      "name": "Arsenal FC",
+      "wins": 21,
+      "draws": 3,
+      "losses": 3,
+      "points": 66,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Manchester City",
+      "wins": 19,
+      "draws": 4,
+      "losses": 4,
+      "points": 61,
+      "remaining": {
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1,
+        "Newcastle United": 1
+      }
+    },
+    {
+      "name": "Manchester United",
+      "wins": 16,
+      "draws": 5,
+      "losses": 6,
+      "points": 53,
+      "remaining": {
+        "Manchester City": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1,
+        "Newcastle United": 1
+      }
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 13,
+      "draws": 11,
+      "losses": 3,
+      "points": 50,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 15,
+      "draws": 3,
+      "losses": 9,
+      "points": 48,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "wins": 13,
+      "draws": 6,
+      "losses": 8,
+      "points": 45,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Liverpool FC",
+      "wins": 12,
+      "draws": 7,
+      "losses": 8,
+      "points": 43,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Brentford FC",
+      "wins": 10,
+      "draws": 11,
+      "losses": 6,
+      "points": 41,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Fulham FC",
+      "wins": 11,
+      "draws": 6,
+      "losses": 10,
+      "points": 39,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Chelsea FC",
+      "wins": 10,
+      "draws": 8,
+      "losses": 9,
+      "points": 38,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Aston Villa",
+      "wins": 11,
+      "draws": 5,
+      "losses": 11,
+      "points": 38,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Newcastle United": 1
+      }
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 6,
+      "draws": 9,
+      "losses": 12,
+      "points": 27,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "wins": 7,
+      "draws": 6,
+      "losses": 14,
+      "points": 27,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Leeds United",
+      "wins": 6,
+      "draws": 8,
+      "losses": 13,
+      "points": 26,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Aston Villa": 1,
+        "Newcastle United": 1
+      }
+    },
+    {
+      "name": "Nottingham Forest",
+      "wins": 6,
+      "draws": 8,
+      "losses": 13,
+      "points": 26,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Everton FC",
+      "wins": 6,
+      "draws": 7,
+      "losses": 14,
+      "points": 25,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Leicester City",
+      "wins": 7,
+      "draws": 3,
+      "losses": 17,
+      "points": 24,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1,
+        "Newcastle United": 1
+      }
+    },
+    {
+      "name": "West Ham United",
+      "wins": 6,
+      "draws": 6,
+      "losses": 15,
+      "points": 24,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1,
+        "Newcastle United": 1
+      }
+    },
+    {
+      "name": "AFC Bournemouth",
+      "wins": 6,
+      "draws": 6,
+      "losses": 15,
+      "points": 24,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    },
+    {
+      "name": "Southampton FC",
+      "wins": 6,
+      "draws": 4,
+      "losses": 17,
+      "points": 22,
+      "remaining": {
+        "Manchester City": 1,
+        "Manchester United": 1,
+        "Arsenal": 1,
+        "Liverpool": 1,
+        "Chelsea": 1,
+        "Tottenham": 1,
+        "Leicester City": 1,
+        "West Ham United": 1,
+        "Everton": 1,
+        "Leeds United": 1,
+        "Aston Villa": 1
+      }
+    }
+  ]
+}

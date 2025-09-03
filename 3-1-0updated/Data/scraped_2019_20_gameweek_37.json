@@ -1,0 +1,206 @@
+{
+  "season": "2019-20 (After Gameweek 37)",
+  "description": "Premier League table after gameweek 37",
+  "teams": [
+    {
+      "name": "Liverpool FC",
+      "wins": 31,
+      "draws": 3,
+      "losses": 3,
+      "points": 96,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Manchester City",
+      "wins": 25,
+      "draws": 3,
+      "losses": 9,
+      "points": 78,
+      "remaining": {
+        "Manchester United": 1
+      }
+    },
+    {
+      "name": "Manchester United",
+      "wins": 17,
+      "draws": 12,
+      "losses": 8,
+      "points": 63,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Chelsea FC",
+      "wins": 19,
+      "draws": 6,
+      "losses": 12,
+      "points": 63,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Leicester City",
+      "wins": 18,
+      "draws": 8,
+      "losses": 11,
+      "points": 62,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "wins": 15,
+      "draws": 14,
+      "losses": 8,
+      "points": 59,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 16,
+      "draws": 10,
+      "losses": 11,
+      "points": 58,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Sheffield United",
+      "wins": 14,
+      "draws": 12,
+      "losses": 11,
+      "points": 54,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Burnley FC",
+      "wins": 15,
+      "draws": 9,
+      "losses": 13,
+      "points": 54,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Arsenal FC",
+      "wins": 13,
+      "draws": 14,
+      "losses": 10,
+      "points": 53,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Everton FC",
+      "wins": 13,
+      "draws": 10,
+      "losses": 14,
+      "points": 49,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Southampton FC",
+      "wins": 14,
+      "draws": 7,
+      "losses": 16,
+      "points": 49,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 11,
+      "draws": 11,
+      "losses": 15,
+      "points": 44,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 11,
+      "draws": 9,
+      "losses": 17,
+      "points": 42,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "West Ham United",
+      "wins": 10,
+      "draws": 8,
+      "losses": 19,
+      "points": 38,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "wins": 8,
+      "draws": 14,
+      "losses": 15,
+      "points": 38,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Aston Villa",
+      "wins": 9,
+      "draws": 7,
+      "losses": 21,
+      "points": 34,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Watford FC",
+      "wins": 8,
+      "draws": 10,
+      "losses": 19,
+      "points": 34,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "AFC Bournemouth",
+      "wins": 8,
+      "draws": 7,
+      "losses": 22,
+      "points": 31,
+      "remaining": {
+        "Manchester City": 1
+      }
+    },
+    {
+      "name": "Norwich City",
+      "wins": 5,
+      "draws": 6,
+      "losses": 26,
+      "points": 21,
+      "remaining": {
+        "Manchester City": 1
+      }
+    }
+  ]
+}
