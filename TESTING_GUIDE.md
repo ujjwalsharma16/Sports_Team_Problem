@@ -113,7 +113,7 @@ Tottenham Hotspur: ELIMINATED by Arsenal FC, Manchester City
 
 ## Algorithm Details
 
-### Professor's Updated Heuristic Formula
+### Updated Heuristic Formula
 The implementation uses the exact formula specified by the professor:
 
 **P₂₀ + 3k ≥ min max{P₁*,...,Pᵢ*}**
@@ -180,5 +180,3 @@ python3 elimination.py Tests/final_test_1.json 3-1-0  # 3-1-0 scoring (recommend
 ```
 
 ---
-
-**Note**: This implementation represents the final version incorporating all professor feedback and is ready for dissertation submission.
